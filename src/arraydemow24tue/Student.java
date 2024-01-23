@@ -6,7 +6,7 @@ package arraydemow24tue;
 
 /**
  *
- * @author Gurkamal
+ * @author Gurkamal on HP
  */
 public class Student {
     private int sid;
