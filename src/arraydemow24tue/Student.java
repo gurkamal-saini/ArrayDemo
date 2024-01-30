@@ -6,7 +6,8 @@ package arraydemow24tue;
 
 /**
  *
- * @author Gurkamal on HP-
+ * @author Gurkamal on HP
+ this is for pull
  */
 public class Student {
     private int sid;
